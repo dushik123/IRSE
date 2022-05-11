@@ -1,1 +1,2 @@
-# IRSE - ip range string editor
+# IRSE - ip range strings editor
+Delete lines with ipv6
